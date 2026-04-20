@@ -1,4 +1,4 @@
-# DataScienceProject-P2
+# DataScienceProject-P3
 DS 4002: Data Science Project
 
 ## Section 1: Software and platform section
