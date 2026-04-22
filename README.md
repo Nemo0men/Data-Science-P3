@@ -14,7 +14,6 @@ The software used for this project was Visual Studio Code (VS Code) and GitHub. 
 
 ## Section 2: Map of the documentation
 
-here is our dataset to download: https://drive.google.com/drive/folders/1sZZMJkbqJNbHgebKvHzcXYZHJd6ss4tH?usp=drive_link
 **README.md**  
 - Overview of the project, software and platform used, documentation map, and instructions for reproducing results
 
