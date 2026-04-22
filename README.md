@@ -39,6 +39,9 @@ The software used for this project was Visual Studio Code (VS Code) and GitHub. 
 **OUTPUT/**  
 - deeplab_experiment_plots
 - eda
+  - Flooded vs Non-Flooded Pixel Counts in Masks.png
+  - Number of Images Per Dataset Split.png
+  - Segmentation Class Pixel Distribution.png
 - segformer_experiment_plots
 - unet_experiment_plots
   - exp1-3
@@ -47,6 +50,7 @@ The software used for this project was Visual Studio Code (VS Code) and GitHub. 
 
 ## Section 3: Instructions for reproducing the results
 1. Download the data using the link in data.md
-2. Run the EDA script for the EDA analysis
-3. Run the scripts for each of the following models in the scripts folder: segformer, unet, and deeplab to obtain the three different models
-4. Analyze results
+2. Download and install necessary packages listed above
+3. Run the EDA script for the EDA analysis
+4. Run the scripts for each of the following models in the scripts folder: segformer, unet, and deeplab (in order as listed under scripts) to obtain the three different models
+5. Analyze results
