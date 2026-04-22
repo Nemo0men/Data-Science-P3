@@ -38,11 +38,41 @@ The software used for this project was Visual Studio Code (VS Code) and GitHub. 
 
 **OUTPUT/**  
 - deeplab_experiment_plots
+  - exp1_lr0.0001_wd0.0001_ep40_f1.png
+  - exp1_lr0.0001_wd0.0001_ep40_iou.png
+  - exp1_lr0.0001_wd0.0001_ep40_loss.png
+  - exp1_lr0.0001_wd0.0001_ep40_predictions.png
+  - exp2_lr0.0003_wd0.001_ep40_f1.png
+  - exp2_lr0.0003_wd0.001_ep40_iou.png
+  - exp2_lr0.0003_wd0.001_ep40_loss.png
+  - exp2_lr0.0003_wd0.001_ep40_predictions.png
 - eda
   - Flooded vs Non-Flooded Pixel Counts in Masks.png
   - Number of Images Per Dataset Split.png
   - Segmentation Class Pixel Distribution.png
 - segformer_experiment_plots
+  - exp1_lr5e-05_wd0.0001_ep10_f1.png
+  - exp1_lr5e-05_wd0.0001_ep10_iou.png
+  - exp1_lr5e-05_wd0.0001_ep10_loss.png
+  - exp1_lr5e-05_wd0.0001_ep10_predictions.png
+  - exp1_lr5e-05_wd0.0001_ep20_f1.png
+  - exp1_lr5e-05_wd0.0001_ep20_iou.png
+  - exp1_lr5e-05_wd0.0001_ep20_loss.png
+  - exp2_lr3e-05_wd0.0001_ep10_f1.png
+  - exp2_lr3e-05_wd0.0001_ep10_iou.png
+  - exp2_lr3e-05_wd0.0001_ep10_loss.png
+  - exp2_lr3e-05_wd0.0001_ep10_predictions.png
+  - exp3_lr3e-05_wd0.01_ep10_f1.png
+  - exp3_lr3e-05_wd0.01_ep10_iou.png
+  - exp3_lr3e-05_wd0.01_ep10_loss.png
+  - exp3_lr3e-05_wd0.01_ep10_predictions.png
+  - exp4_lr1e-05_wd0.01_ep20_f1.png
+  - exp4_lr1e-05_wd0.01_ep20_iou.png
+  - exp4_lr1e-05_wd0.01_ep20_loss.png
+  - exp4_lr1e-05_wd0.01_ep20_predictions.png
+  - segformer_exp0_iou.png
+  - segformer_exp0_loss.png
+  - segformer_exp0_sample_image.png
 - unet_experiment_plots
   - exp1-3
   - exp4-6
